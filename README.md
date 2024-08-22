@@ -4,6 +4,7 @@
 
 </span>
 
+![image alt](https://github.com/JuliaHZucco/JuliaHZucco/blob/main/julia.png?raw=true)
 📖 I'm an Information Systems student and I'm excited to start my career and contribute to real projects. Ready to learn and grow in the area of ​​software development.<br> 
 
 🔧 I mainly use Java, but I am also familiar with other programming languages
