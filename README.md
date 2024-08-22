@@ -1,5 +1,10 @@
-# 🩷 Hi, I´m Júlia!:
-<br>📖 I'm an Information Systems student and I'm excited to start my career and contribute to real projects. Ready to learn and grow in the area of ​​software development.<br> 
+<span align="center">
+
+##  🩷 Hi, I´m Júlia! 
+
+</span>
+
+📖 I'm an Information Systems student and I'm excited to start my career and contribute to real projects. Ready to learn and grow in the area of ​​software development.<br> 
 
 🔧 I mainly use Java, but I am also familiar with other programming languages
 
