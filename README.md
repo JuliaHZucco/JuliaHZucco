@@ -9,7 +9,7 @@
 <div align="center">
 📖 I'm an Information Systems student and I'm excited to start my career and contribute to real projects. Ready to learn and grow in the area of ​​software development.<br> 
 
-🔧 I mainly use Java, but I am also familiar with other programming languages
+🔧 I mainly use Java, but I am also familiar with other programming languages.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juhadassa/) 
