@@ -8,7 +8,7 @@
 
 <div align="center">
 📖 Developer at DigitalDesk (C#, JavaScript, TypeScript, React, .NET, SQL, Bootstrap, SCSS)<br>
-🎓 Information Systems student (5th semester) at Feevale University<br>
+🎓 Information Systems student (6th semester) at Feevale University<br>
 💻 Technical degree in Information Technology<br>
 </div>
 
